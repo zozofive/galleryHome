@@ -1,3 +1,3 @@
 # galleryHome
  gallery with links
-https://github.com/zozofive/galleryHome
+(https://github.com/zozofive/galleryHome)
